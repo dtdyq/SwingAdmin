@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.swing</groupId>
-    <artifactId>SwingAdmin</artifactId>
+    <artifactId>SwingTemplate</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -21,6 +21,42 @@
             <artifactId>flatlaf</artifactId>
             <version>3.1.1</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.kenai.nbpwr/org-jdesktop-animation-timing -->
+        <dependency>
+            <groupId>com.kenai.nbpwr</groupId>
+            <artifactId>org-jdesktop-animation-timing</artifactId>
+            <version>1.0-201002281504</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.jdesktop/beansbinding -->
+        <dependency>
+            <groupId>org.jdesktop</groupId>
+            <artifactId>beansbinding</artifactId>
+            <version>1.2.1</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.swinglabs/swingx -->
+        <dependency>
+            <groupId>org.swinglabs</groupId>
+            <artifactId>swingx</artifactId>
+            <version>1.6.1</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/io.github.homebeaver/swingset3-demos -->
+        <dependency>
+            <groupId>io.github.homebeaver</groupId>
+            <artifactId>swingset3-demos</artifactId>
+            <version>1.7.5</version>
+        </dependency>
+        <dependency>
+            <groupId>com.weblookandfeel</groupId>
+            <artifactId>weblaf-ui</artifactId>
+            <version>1.2.13</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.nqadmin.swingset/swingset -->
+        <dependency>
+            <groupId>com.nqadmin.swingset</groupId>
+            <artifactId>swingset</artifactId>
+            <version>4.0.11</version>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/com.formdev/flatlaf -->
         <dependency>
             <groupId>com.formdev</groupId>
